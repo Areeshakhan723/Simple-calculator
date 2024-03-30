@@ -1,2 +1,2 @@
-# Typescript-node-projects
-In this repository we are created Typescript Node Projects 
+# Simple calculator
+Develop a simple command line calculator using TypeScipt, Node.js and Inquirer.

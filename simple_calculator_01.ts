@@ -2,7 +2,7 @@
 
 import inquirer from "inquirer";
 
-const answer = await inquirer.prompt([                 // save
+const answer = await inquirer.prompt([                 
   { message: "Enter a first number", type: "number", name: "firstNumber" },
   { message: "Enter a second number", type: "number", name: "secondNumber" },
   {
